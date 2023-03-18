@@ -1,16 +1,16 @@
-### Hi there 👋
+<hr>
 
-<!--
-**matheusdsm/matheusdsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi guys! <br> a dev in development mode; <br> and that all folks! *(or maybe, haha)*
 
-Here are some ideas to get you started:
+<p>Nothing to say, only to show. <br>
+Sometimes in a box or out of then. <strong>Think further and go more than!</strong></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+### Olá pessoal! <br> um desenvolvedor em desenvolvimento, e só. <br> *(talvez, hehe)*
+
+<p>Nada a declarar, apenas á mostrar. <br>
+Algumas vezes dentro da caixinha ou fora dela.
+<strong>Pense longe e realize!</strong></p>
+
+<hr>
