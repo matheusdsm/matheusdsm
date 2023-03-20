@@ -7,4 +7,4 @@ Sometimes in a box or out of then. <strong>Think further and go more than!</stro
 
 <hr>
 
-<a href="https://ko-fi.com/matheusdsm">Buy me a Coffee :)</a>
+<a href="https://ko-fi.com/matheusdsm" target="_blank">Buy me a Coffee :)</a>
