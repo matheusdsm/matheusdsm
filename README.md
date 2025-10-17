@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Matheus Mariano</h1>
-<h3 align="center">System developer breathing in Brazil</h3>
+<h1 align="center">Olá 👋, sou o Matheus Mariano</h1>
+<h3 align="center">Desenvolvedor de software especializado em padrões RFC e normas ISO</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
