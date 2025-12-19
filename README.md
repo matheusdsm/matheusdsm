@@ -1,8 +1,8 @@
-<h1 align="center">Olá 👋, eu sou o Matheus Mariano</h1>
-<h3 align="center">Desenvolvedor web com experiência prática em WordPress, PHP e JavaScript</h3>
+<h1 align="left">Olá 👋, eu sou o Matheus Mariano</h1>
+<h3 align="left">Desenvolvedor web com experiência prática em WordPress, PHP e JavaScript</h3>
 
 <h3 align="left">Conecte comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/matheus-mariano-in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheus-mariano-in" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/matheus-mariano-in/" target="blank">linkedin.com/in/matheus-mariano-in</a><br>
 <a href="https://matheusmariano.com.br" target="blank">matheusmariano.com.br</a>
 </p>
