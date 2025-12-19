@@ -3,6 +3,6 @@
 
 <h3 align="left">Conecte comigo:</h3>
 <p align="left">
-<a href="matheusmariano.com.br" target="blank"><img align="center" src="https://images.emojiterra.com/openmoji/v13.1/512px/1f310.png" alt="matheusmariano.com.br" height="30" width="40" /></a>
+<a href="matheusmariano.com.br" target="blank"><img align="center" src="https://cdn-icons-png.freepik.com/256/13978/13978289.png?semt=ais_white_label" alt="matheusmariano.com.br" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/matheus-mariano-in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheus-mariano-in" height="30" width="40" /></a>
 </p>
