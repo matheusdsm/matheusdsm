@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou o Matheus Mariano</h1>
-<h3 align="center">Desenvolvedor de software especializado em padrões RFC e normas ISO</h3>
+<h3 align="center">Desenvolvedor web com experiência prática em WordPress, PHP e JavaScript</h3>
 
 <h3 align="left">Conecte comigo:</h3>
 <p align="left">
